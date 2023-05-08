@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 21 16:37:30 2021
 
-@author: LLJ
+@author: Longjiao Li
 """
 
 # -*- coding: utf-8 -*-
